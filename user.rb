@@ -81,5 +81,6 @@ helen.add_friend(saber)
 juliet.add_friend(saber)
 helen.add_friend(aaron)
 juliet.add_friend(danny)
+aaron.post("another post")
 
 binding.pry
